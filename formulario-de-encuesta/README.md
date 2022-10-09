@@ -4,4 +4,4 @@
 ###### Para ver la ilustración ➡ https://dkszdp.github.io/formulario-de-encuesta/  
 
 
-![Imagen](https://github.com/dkszdp/formulario-de-encuesta/blob/main/fotos/formulariodeencuesta.png)
+![Imagen](./fotos/formulariodeencuesta.png)
