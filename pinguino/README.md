@@ -4,4 +4,4 @@
 ###### Para ver la ilustración ➡ https://dkszdp.github.io/pinguino/  
 
 
-![Imagen](https://github.com/dkszdp/pinguino/blob/main/fotos/pinguino.png)
+![Imagen](./fotos/pinguino.png)
