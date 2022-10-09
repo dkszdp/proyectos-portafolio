@@ -4,4 +4,4 @@
 ###### Para ver la ilustración ➡ https://dkszdp.github.io/tienda/  
 
 
-![Imagen](https://github.com/dkszdp/tienda/blob/main/fotos/tienda.png)
+![Imagen](./fotos/tienda.png)
