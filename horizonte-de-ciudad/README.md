@@ -4,4 +4,4 @@
 ###### Para ver la ilustracióno ➡ https://dkszdp.github.io/horizonte-de-ciudad/
 
 
-![Imagen](https://github.com/dkszdp/horizonte-de-ciudad/blob/master/fotos/ciudad.png)
+![Imagen](./fotos/ciudad.png)
