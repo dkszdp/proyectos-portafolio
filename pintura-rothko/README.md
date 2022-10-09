@@ -4,4 +4,4 @@
 ###### Para ver la ilustración ➡ https://dkszdp.github.io/pintura-rothko/  
 
 
-![Imagen](https://github.com/dkszdp/pintura-rothko/blob/master/fotos/pintura.png)
+![Imagen](./fotos/pintura.png)
