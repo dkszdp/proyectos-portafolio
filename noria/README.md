@@ -4,4 +4,4 @@
 ###### Para ver la animación ➡ https://dkszdp.github.io/noria/
 
 
-![Imagen](https://github.com/dkszdp/noria/blob/master/fotos/noria.png)
+![Imagen](./fotos/noria.png)
